@@ -8,7 +8,7 @@
 
 
 ## Database Details  
-we establish a comprehensive acoustic database for dental food impaction.    we recruited a total of 1200 volunteers, aged 20-60 years old, regardless of gender, the target region is between the first and second molar.      The same clinician adopts the same floss (Oral-B, 50 µm) to collect acoustic contact information on the proximal surfaces of the target teeth, which mainly includes two types of acoustic information: impacted teeth(n=1012) and non-impacted teeth (n=1023).      
+we establish a comprehensive acoustic database for dental food impaction.    we recruited a total of 1200 volunteers, aged 20-60 years old, regardless of gender, the target region is between the first and second molar.      The same clinician adopts the same floss (Oral-B, 50 µm) to collect acoustic contact information on the proximal surfaces of the target teeth, which mainly includes two types of acoustic information: impacted teeth and non-impacted teeth. The database can be through the following link to download (https://pan.baidu.com/s/1-Rm62skZcqUHP2lig1kWVQ).      
 
 
 
